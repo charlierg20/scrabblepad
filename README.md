@@ -1,6 +1,8 @@
 # scrabblepad
 Arduino based electronic dictionary<br>
 
+**Please note this project is very incomplete and numerous parts are missing from this repo. It is a work in progress**<br>
+
 This device/product is in no way connected/affiliated to Scrabble or Hasbro.
 
 ## What is this?
